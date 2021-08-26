@@ -4,6 +4,7 @@ My name is Jordan McGhee, and I am a motion designer working on making a career 
 - 🔥 I'm currently working on expanding my knowledge of JavaScript/jQuery/AJAX
 - 💬 Get in touch: [jordanmcghee95@gmail.com](mailto:jordanmcghee95@gmail.com) or [linkedin](https://www.linkedin.com/in/jordan-mcghee-048939117/).
 - 😌 Fun facts: In my spare time (that isn't spent coding), I enjoy weightlifting and learning guitar!
+- 🎨View my design work: [my behance page](https://www.behance.net/jordanmcghee)!
 
 <!--
 **Jordan-McGhee/jordan-mcghee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
